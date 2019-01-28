@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monument.CSharp", "Monument.CSharp.csproj", "{2AB7FF2B-9B55-DE85-C0B6-7F35EFE68872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monument.CSharp.Editor", "Monument.CSharp.Editor.csproj", "{80B7B855-3ECD-B7A7-BA58-076ED408F3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB7FF2B-9B55-DE85-C0B6-7F35EFE68872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB7FF2B-9B55-DE85-C0B6-7F35EFE68872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB7FF2B-9B55-DE85-C0B6-7F35EFE68872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB7FF2B-9B55-DE85-C0B6-7F35EFE68872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B7B855-3ECD-B7A7-BA58-076ED408F3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B7B855-3ECD-B7A7-BA58-076ED408F3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B7B855-3ECD-B7A7-BA58-076ED408F3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B7B855-3ECD-B7A7-BA58-076ED408F3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
